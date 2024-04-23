@@ -5,7 +5,7 @@ Currently a 2nd Year mechanical engineering student at the University of Notting
 ### Contact Details:
 :email:rangelangel18@yahoo.com
 
-## Programming Language:
+## Programming Language(s):
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ## Connect with me:
